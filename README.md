@@ -2,5 +2,5 @@
 
 ### 01 - Loading Data
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-(https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)
+[![Open In Colab](https://colab.research.google.com/drive/1duMcbGLoQ8qvtohJAcshDo2nawSeDjme#scrollTo=DfBSZAklzvgb)]
+(Load a dataset from the Hub)
