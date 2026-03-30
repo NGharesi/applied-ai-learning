@@ -10,4 +10,4 @@ This repository documents my hands-on learning in applied machine learning and A
 
 Load a dataset from the Hugging Face Hub and explore basic preprocessing.
 
-[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1duMcbGLoQ8qvtohJAcsHDo2nawSeDjme](https://colab.research.google.com/drive/1duMcbGLoQ8qvtohJAcshDo2nawSeDjme?usp=sharing))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1duMcbGLoQ8qvtohJAcsHDo2nawSeDjme?usp=sharing)
