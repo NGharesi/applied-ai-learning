@@ -29,12 +29,20 @@ checking dataset size and label distribution
 
 
 ### 03 - Preprocessing
-
-What this covers:
-
-filtering low-quality samples
-transforming text data
-applying dataset-wide operations using .map()
+This notebook covers:
+- general preprocessing such as filtering and text transformation
+- text preprocessing for transformers
+- tokenization with a matching pretrained tokenizer
+- preparing the dataset for PyTorch
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/16K3EyhLdsuEIcLjlMOIpdvO78QQTiZLw?usp=sharing) 
+
+### 04 - Fine-Tuning With Trainer API
+This notebook continues after preprocessing and shows how to:
+- load a pretrained text classification model
+- define training settings with `TrainingArguments`
+- use `Trainer` to fine-tune the model
+- evaluate performance with accuracy
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-PbjWmTd06UDBX1adcAJwcJkV-qVpsdd?usp=sharing)
 
