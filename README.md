@@ -46,3 +46,13 @@ This notebook continues after preprocessing and shows how to:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-PbjWmTd06UDBX1adcAJwcJkV-qVpsdd?usp=sharing)
 
+### 05 - Custom Training Loop
+This notebook explains how text classification training works without the Trainer API:
+- prepare tokenized data for PyTorch
+- create DataLoaders
+- define optimizer and scheduler
+- run a manual training loop
+- evaluate the model
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iSDftsbvRxin-VwkMXxRFJnz-AaIz70R?usp=sharing)
+
