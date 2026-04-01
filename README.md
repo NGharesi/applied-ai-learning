@@ -1,10 +1,11 @@
-# Applied AI Learning
+# 🤗 Hugging Face Learning Journey
 
-This repository documents my hands-on learning in applied machine learning and AI.
+This repository documents my step-by-step learning of Hugging Face tools for applied machine learning, with a focus on **text data and real-world workflows**.
 
----
+The goal is to build a clear understanding of the full pipeline:
 
-## Hugging Face
+data → preprocessing → training → evaluation → sharing → application
+
 
 ### 01 - Loading Data
 
@@ -66,3 +67,14 @@ This notebook explains how to interpret:
 - unstable training
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VvmmF0yqyzptjCnQcfAfjMivZql0b--E?usp=sharing)
+
+
+### 07 - Sharing Models
+
+Use and share models via the Hugging Face Hub.
+- loading pretrained models
+- saving models locally
+- pushing models to the Hub
+- model cards
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m63geXJGRIYByIj2Hs92bayjqHArAQ0s?usp=sharing)
