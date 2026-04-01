@@ -56,3 +56,13 @@ This notebook explains how text classification training works without the Traine
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iSDftsbvRxin-VwkMXxRFJnz-AaIz70R?usp=sharing)
 
+### 06 - Understanding Learning Curves
+This notebook explains how to interpret:
+- training and validation loss
+- validation accuracy
+- healthy learning curves
+- overfitting
+- underfitting
+- unstable training
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VvmmF0yqyzptjCnQcfAfjMivZql0b--E?usp=sharing)
