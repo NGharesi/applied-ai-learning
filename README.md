@@ -101,3 +101,21 @@ For each task, I included:
 - translation uses sequence-to-sequence models and SacreBLEU
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/125NjVTrImNsjknN-NJ77TyRuRtuBW0Mr?usp=sharing)
+
+
+### 9 - Supervised Fine-Tuning and LoRA
+This notebook covers the practical workflow for adapting a pretrained language model into an assistant-style model.
+
+#### Topics covered
+- chat templates
+- supervised fine-tuning (SFT)
+- LoRA
+- evaluation after fine-tuning
+
+#### Main takeaways
+- instruct models require the correct chat template
+- SFT is useful only when prompting is not enough
+- LoRA makes fine-tuning much more memory-efficient
+- evaluation should include both metrics and qualitative checks
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1XWXy8U1KArg9lvapUx6J4dNMYoE65prf?usp=sharing)
