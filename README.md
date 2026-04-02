@@ -78,3 +78,26 @@ Use and share models via the Hugging Face Hub.
 - model cards
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1m63geXJGRIYByIj2Hs92bayjqHArAQ0s?usp=sharing)
+
+### 08 - Classical NLP Tasks
+This notebook covers the most practical classical NLP tasks that form the foundation of modern language models:
+
+- token classification
+- question answering
+- summarization
+- translation
+
+For each task, I included:
+- the main idea
+- a small practical example
+- the key preprocessing concept
+- the common evaluation metric
+- a short summary of what I learned
+
+#### Main takeaways
+- token classification requires label alignment with subword tokens
+- extractive QA requires mapping answer spans from characters to tokens
+- summarization typically uses encoder-decoder models and ROUGE
+- translation uses sequence-to-sequence models and SacreBLEU
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/125NjVTrImNsjknN-NJ77TyRuRtuBW0Mr?usp=sharing)
